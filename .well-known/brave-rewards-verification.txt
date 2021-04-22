@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: heeraj.com
+Token: 61219448ee875401decf5394295d09be7ec577bcb0858c962ee717100e0a47ad
